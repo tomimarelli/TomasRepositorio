@@ -1,0 +1,15 @@
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\bin\Debug\net7.0\dia3deOct.exe
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\bin\Debug\net7.0\dia3deOct.deps.json
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\bin\Debug\net7.0\dia3deOct.runtimeconfig.json
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\bin\Debug\net7.0\dia3deOct.dll
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\bin\Debug\net7.0\dia3deOct.pdb
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\obj\Debug\net7.0\dia3deOct.csproj.AssemblyReference.cache
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\obj\Debug\net7.0\dia3deOct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\obj\Debug\net7.0\dia3deOct.AssemblyInfoInputs.cache
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\obj\Debug\net7.0\dia3deOct.AssemblyInfo.cs
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\obj\Debug\net7.0\dia3deOct.csproj.CoreCompileInputs.cache
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\obj\Debug\net7.0\dia3deOct.dll
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\obj\Debug\net7.0\refint\dia3deOct.dll
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\obj\Debug\net7.0\dia3deOct.pdb
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\obj\Debug\net7.0\dia3deOct.genruntimeconfig.cache
+C:\Users\tgmarelli\source\repos\dia3deOct\dia3deOct\obj\Debug\net7.0\ref\dia3deOct.dll

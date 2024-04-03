@@ -1,0 +1,15 @@
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\bin\Debug\net7.0\letrasEjer2.exe
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\bin\Debug\net7.0\letrasEjer2.deps.json
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\bin\Debug\net7.0\letrasEjer2.runtimeconfig.json
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\bin\Debug\net7.0\letrasEjer2.dll
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\bin\Debug\net7.0\letrasEjer2.pdb
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\obj\Debug\net7.0\letrasEjer2.csproj.AssemblyReference.cache
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\obj\Debug\net7.0\letrasEjer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\obj\Debug\net7.0\letrasEjer2.AssemblyInfoInputs.cache
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\obj\Debug\net7.0\letrasEjer2.AssemblyInfo.cs
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\obj\Debug\net7.0\letrasEjer2.csproj.CoreCompileInputs.cache
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\obj\Debug\net7.0\letrasEjer2.dll
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\obj\Debug\net7.0\refint\letrasEjer2.dll
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\obj\Debug\net7.0\letrasEjer2.pdb
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\obj\Debug\net7.0\letrasEjer2.genruntimeconfig.cache
+C:\Users\tgmarelli\source\repos\letrasEjer2\letrasEjer2\obj\Debug\net7.0\ref\letrasEjer2.dll

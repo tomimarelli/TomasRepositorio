@@ -1,0 +1,5 @@
+C:\Users\tgmarelli\source\repos\14deSep\14deSep\obj\Debug\net7.0\14deSep.csproj.AssemblyReference.cache
+C:\Users\tgmarelli\source\repos\14deSep\14deSep\obj\Debug\net7.0\14deSep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgmarelli\source\repos\14deSep\14deSep\obj\Debug\net7.0\14deSep.AssemblyInfoInputs.cache
+C:\Users\tgmarelli\source\repos\14deSep\14deSep\obj\Debug\net7.0\14deSep.AssemblyInfo.cs
+C:\Users\tgmarelli\source\repos\14deSep\14deSep\obj\Debug\net7.0\14deSep.csproj.CoreCompileInputs.cache

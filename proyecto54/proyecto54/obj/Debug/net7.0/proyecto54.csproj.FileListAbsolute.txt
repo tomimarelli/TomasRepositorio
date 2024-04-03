@@ -1,0 +1,15 @@
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\obj\Debug\net7.0\proyecto54.csproj.AssemblyReference.cache
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\obj\Debug\net7.0\proyecto54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\obj\Debug\net7.0\proyecto54.AssemblyInfoInputs.cache
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\obj\Debug\net7.0\proyecto54.AssemblyInfo.cs
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\obj\Debug\net7.0\proyecto54.csproj.CoreCompileInputs.cache
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\bin\Debug\net7.0\proyecto54.exe
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\bin\Debug\net7.0\proyecto54.deps.json
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\bin\Debug\net7.0\proyecto54.runtimeconfig.json
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\bin\Debug\net7.0\proyecto54.dll
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\bin\Debug\net7.0\proyecto54.pdb
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\obj\Debug\net7.0\proyecto54.dll
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\obj\Debug\net7.0\refint\proyecto54.dll
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\obj\Debug\net7.0\proyecto54.pdb
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\obj\Debug\net7.0\proyecto54.genruntimeconfig.cache
+C:\Users\tgmarelli\source\repos\proyecto54\proyecto54\obj\Debug\net7.0\ref\proyecto54.dll

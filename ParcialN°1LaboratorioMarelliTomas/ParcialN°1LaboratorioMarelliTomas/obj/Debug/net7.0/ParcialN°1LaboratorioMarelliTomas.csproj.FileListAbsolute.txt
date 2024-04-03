@@ -1,0 +1,15 @@
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\bin\Debug\net7.0\ParcialN°1LaboratorioMarelliTomas.exe
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\bin\Debug\net7.0\ParcialN°1LaboratorioMarelliTomas.deps.json
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\bin\Debug\net7.0\ParcialN°1LaboratorioMarelliTomas.runtimeconfig.json
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\bin\Debug\net7.0\ParcialN°1LaboratorioMarelliTomas.dll
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\bin\Debug\net7.0\ParcialN°1LaboratorioMarelliTomas.pdb
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\obj\Debug\net7.0\ParcialN°1LaboratorioMarelliTomas.csproj.AssemblyReference.cache
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\obj\Debug\net7.0\ParcialN°1LaboratorioMarelliTomas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\obj\Debug\net7.0\ParcialN°1LaboratorioMarelliTomas.AssemblyInfoInputs.cache
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\obj\Debug\net7.0\ParcialN°1LaboratorioMarelliTomas.AssemblyInfo.cs
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\obj\Debug\net7.0\ParcialN°1LaboratorioMarelliTomas.csproj.CoreCompileInputs.cache
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\obj\Debug\net7.0\ParcialN°1LaboratorioMarelliTomas.dll
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\obj\Debug\net7.0\refint\ParcialN°1LaboratorioMarelliTomas.dll
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\obj\Debug\net7.0\ParcialN°1LaboratorioMarelliTomas.pdb
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\obj\Debug\net7.0\ParcialN°1LaboratorioMarelliTomas.genruntimeconfig.cache
+C:\Users\tgmarelli\source\repos\ParcialN°1LaboratorioMarelliTomas\ParcialN°1LaboratorioMarelliTomas\obj\Debug\net7.0\ref\ParcialN°1LaboratorioMarelliTomas.dll

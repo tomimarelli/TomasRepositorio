@@ -1,0 +1,15 @@
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\obj\Debug\net7.0\ejerPrac2.csproj.AssemblyReference.cache
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\obj\Debug\net7.0\ejerPrac2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\obj\Debug\net7.0\ejerPrac2.AssemblyInfoInputs.cache
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\obj\Debug\net7.0\ejerPrac2.AssemblyInfo.cs
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\obj\Debug\net7.0\ejerPrac2.csproj.CoreCompileInputs.cache
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\bin\Debug\net7.0\ejerPrac2.exe
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\bin\Debug\net7.0\ejerPrac2.deps.json
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\bin\Debug\net7.0\ejerPrac2.runtimeconfig.json
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\bin\Debug\net7.0\ejerPrac2.dll
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\bin\Debug\net7.0\ejerPrac2.pdb
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\obj\Debug\net7.0\ejerPrac2.dll
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\obj\Debug\net7.0\refint\ejerPrac2.dll
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\obj\Debug\net7.0\ejerPrac2.pdb
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\obj\Debug\net7.0\ejerPrac2.genruntimeconfig.cache
+C:\Users\tgmarelli\source\repos\ejerPrac2\ejerPrac2\obj\Debug\net7.0\ref\ejerPrac2.dll

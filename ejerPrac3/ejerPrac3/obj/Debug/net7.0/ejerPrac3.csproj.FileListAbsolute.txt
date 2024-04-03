@@ -1,0 +1,15 @@
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\bin\Debug\net7.0\ejerPrac3.exe
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\bin\Debug\net7.0\ejerPrac3.deps.json
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\bin\Debug\net7.0\ejerPrac3.runtimeconfig.json
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\bin\Debug\net7.0\ejerPrac3.dll
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\bin\Debug\net7.0\ejerPrac3.pdb
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\obj\Debug\net7.0\ejerPrac3.csproj.AssemblyReference.cache
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\obj\Debug\net7.0\ejerPrac3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\obj\Debug\net7.0\ejerPrac3.AssemblyInfoInputs.cache
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\obj\Debug\net7.0\ejerPrac3.AssemblyInfo.cs
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\obj\Debug\net7.0\ejerPrac3.csproj.CoreCompileInputs.cache
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\obj\Debug\net7.0\ejerPrac3.dll
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\obj\Debug\net7.0\refint\ejerPrac3.dll
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\obj\Debug\net7.0\ejerPrac3.pdb
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\obj\Debug\net7.0\ejerPrac3.genruntimeconfig.cache
+C:\Users\tgmarelli\source\repos\ejerPrac3\ejerPrac3\obj\Debug\net7.0\ref\ejerPrac3.dll

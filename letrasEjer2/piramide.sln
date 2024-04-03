@@ -1,0 +1,20 @@
+﻿Public Class Form1
+    Private Sub btnDraw_Click(sender As Object, e As EventArgs) Handles btnDraw.Click
+        Dim height As Integer = CInt(txtHeight.Text)
+
+        If height > 0 Then
+            Dim spaceCount As Integer = height - 1
+            Dim asteriskCount As Integer = 1
+
+            lstOutput.Items.Clear()
+
+            For i As Integer = 1 To height
+                Dim line As String = New String(" "c, spaceCount) +New String("*"c, asteriskCount)
+                lstOutput.Items.Add(line)
+
+                spaceCount -= 1
+                asteriskCount += 2
+            Next
+        End If
+    End Sub
+End Class

@@ -1,0 +1,15 @@
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\obj\Debug\net7.0\ejerciciopractica.csproj.AssemblyReference.cache
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\obj\Debug\net7.0\ejerciciopractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\obj\Debug\net7.0\ejerciciopractica.AssemblyInfoInputs.cache
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\obj\Debug\net7.0\ejerciciopractica.AssemblyInfo.cs
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\obj\Debug\net7.0\ejerciciopractica.csproj.CoreCompileInputs.cache
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\bin\Debug\net7.0\ejerciciopractica.exe
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\bin\Debug\net7.0\ejerciciopractica.deps.json
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\bin\Debug\net7.0\ejerciciopractica.runtimeconfig.json
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\bin\Debug\net7.0\ejerciciopractica.dll
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\bin\Debug\net7.0\ejerciciopractica.pdb
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\obj\Debug\net7.0\ejerciciopractica.dll
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\obj\Debug\net7.0\refint\ejerciciopractica.dll
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\obj\Debug\net7.0\ejerciciopractica.pdb
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\obj\Debug\net7.0\ejerciciopractica.genruntimeconfig.cache
+C:\Users\tgmarelli\source\repos\ejerciciopractica\ejerciciopractica\obj\Debug\net7.0\ref\ejerciciopractica.dll
